@@ -1,0 +1,251 @@
+Series_Name	Number_of_episodes	Number_of_seasons	Genre	Year_released	End_year	Avg_runtime	Rating	Number_of_raters	Number_of_reviews	Number_of_critics_review
+Game of Thrones	73	8	Action	2011	2019	57	9.3	1717092	4506	335
+Breaking Bad	62	5	Crime	2008	2013	49	9.5	1405422	2914	173
+Friends	235	10	Comedy	1994	2004	22	8.9	794073	1554	55
+Sherlock	15	4	Crime	2010	2017	88	9.1	784848	810	115
+Stranger Things	34	4	Drama	2016	NA	51	8.8	779139	2337	331
+Dexter	106	9	Crime	2006	2021	53	8.6	632705	753	232
+Chernobyl	5	1	Drama	2019	NA	66	9.4	503424	3063	105
+True Detective	24	3	Crime	2014	NA	55	9	487388	833	161
+House of Cards	73	6	Drama	2013	2018	51	8.7	458481	816	166
+Black Mirror	22	5	Drama	2011	NA	60	8.8	423599	739	102
+Westworld	29	4	Drama	2016	NA	62	8.7	414954	1394	149
+Vikings	93	6	Action	2013	NA	44	8.5	407287	787	72
+House M.D.	176	8	Drama	2004	2012	44	8.7	406479	565	52
+The Office	188	9	Comedy	2005	2013	22	8.9	386126	1127	66
+Band of Brothers	10	1	Action	2001	NA	59	9.4	364952	820	32
+Rick and Morty	42	5	Animation	2013	NA	23	9.2	358744	560	51
+The Simpsons	691	32	Animation	1989	NA	22	8.7	358492	804	132
+Daredevil	39	3	Action	2015	2018	54	8.6	355392	929	190
+Narcos	30	3	Biography	2015	2017	49	8.8	343983	388	72
+South Park	309	24	Animation	1997	NA	22	8.7	325804	494	134
+Mr. Robot	46	4	Crime	2015	2019	49	8.6	323640	915	106
+Peaky Blinders	37	7	Crime	2013	NA	60	8.8	316347	738	79
+Fargo	41	4	Crime	2014	NA	53	8.9	313863	476	105
+Better Call Saul	63	6	Crime	2015	NA	46	8.7	309567	724	110
+The Sopranos	86	6	Crime	1999	2007	55	9.2	290314	557	84
+The Wire	60	5	Crime	2002	2008	59	9.3	277052	501	69
+Arrested Development	84	5	Comedy	2003	NA	22	8.7	272407	402	57
+Dark	26	3	Crime	2017	2020	60	8.8	259482	3093	167
+Sons of Anarchy	92	7	Crime	2008	2014	45	8.6	252581	463	83
+Seinfeld	173	9	Comedy	1989	1998	22	8.8	248898	493	33
+Firefly	14	1	Adventure	2002	2003	44	9	240386	779	72
+Avatar: The Last Airbender	66	3	Animation	2005	2008	23	9.2	236192	602	55
+Hannibal	39	3	Crime	2013	2015	44	8.5	222611	575	110
+Death Note	37	1	Animation	2006	2007	24	9	221886	444	33
+Spartacus	34	3	Action	2010	2013	55	8.5	219314	421	71
+Community	110	6	Comedy	2009	2015	22	8.5	209081	351	68
+Parks and Recreation	125	7	Comedy	2009	2020	22	8.6	205751	294	42
+Mindhunter	19	2	Crime	2017	NA	60	8.6	203090	721	108
+Mad Men	92	7	Drama	2007	2015	47	8.6	202097	363	170
+The Boys	17	3	Action	2019	NA	60	8.7	201241	1808	88
+The Mandalorian	17	3	Action	2019	NA	40	8.7	199588	1953	57
+Doctor Who	190	12	Adventure	2005	NA	45	8.6	196472	798	213
+Shameless	127	11	Comedy	2011	NA	46	8.6	195790	427	49
+The X-Files	217	11	Crime	1993	2018	45	8.6	195189	410	163
+It's Always Sunny in Philadelphia	154	15	Comedy	2005	NA	22	8.8	186255	317	76
+The Punisher	26	2	Action	2017	2019	53	8.5	177383	743	86
+Twin Peaks	30	2	Crime	1990	1991	47	8.8	170721	255	129
+Boardwalk Empire	57	5	Crime	2010	2014	55	8.5	169381	206	126
+The Haunting of Hill House	10	1	Drama	2018	NA	57	8.7	165184	2205	88
+Planet Earth	11	1	Documentary	2006	NA	49	9.4	163867	89	9
+Downton Abbey	52	6	Drama	2010	2015	58	8.7	158771	227	77
+Rome	22	2	Action	2005	2007	52	8.7	152020	257	29
+Battlestar Galactica	74	4	Action	2004	2009	44	8.7	150463	763	104
+Attack on Titan	69	4	Animation	2013	NA	24	8.8	149863	575	46
+Big Little Lies	14	2	Crime	2017	2019	60	8.5	147538	457	59
+Archer	119	11	Animation	2009	NA	22	8.6	134786	167	56
+The IT Crowd	25	5	Comedy	2006	2013	25	8.5	130592	156	20
+Freaks and Geeks	18	1	Comedy	1999	2000	44	8.8	126763	207	37
+Spartacus: Gods of the Arena	6	1	Action	2011	NA	55	8.5	124725	66	22
+Silicon Valley	53	6	Comedy	2014	2019	28	8.5	123248	209	36
+The Crown	60	6	Drama	2016	NA	58	8.7	120511	424	68
+Six Feet Under	63	5	Comedy	2001	2005	55	8.7	118806	314	48
+The Night Of	9	1	Crime	2016	NA	58	8.5	115125	215	55
+Fullmetal Alchemist: Brotherhood	69	1	Animation	2009	2012	24	9.1	111483	215	15
+Dragon Ball Z	277	16	Animation	1996	2003	24	8.7	110438	165	35
+One Punch Man	24	2	Animation	2015	NA	24	8.8	108576	243	21
+Cosmos: A Spacetime Odyssey	13	1	Documentary	2014	NA	43	9.3	108471	170	12
+Top Gear	300	29	Adventure	2002	NA	60	8.7	107264	133	27
+BoJack Horseman	77	6	Animation	2014	2020	25	8.7	105502	412	64
+The Newsroom	25	3	Drama	2012	2014	55	8.6	102601	308	56
+Mr. Bean	15	1	Comedy	1990	1995	25	8.5	99753	69	14
+Curb Your Enthusiasm	101	11	Comedy	2000	NA	28	8.7	99739	243	33
+Star Trek: The Next Generation	176	7	Action	1987	1994	44	8.6	98133	270	147
+This Is Us	75	6	Comedy	2016	NA	45	8.7	98117	463	40
+The Office	14	3	Comedy	2001	2003	30	8.5	96442	213	38
+Planet Earth II	6	1	Documentary	2016	NA	50	9.5	92720	120	6
+Deadwood	36	3	Crime	2004	2006	55	8.6	92718	308	67
+"Love, Death & Robots"	19	2	Animation	2019	NA	15	8.5	90791	710	42
+Fleabag	12	2	Comedy	2016	2019	27	8.7	88396	473	40
+Oz	56	6	Crime	1997	2003	55	8.7	87307	181	29
+Leyla and Mecnun	104	3	Adventure	2011	2014	80	9.1	87171	58	3
+Cowboy Bebop	26	1	Animation	1998	1999	24	8.9	86266	245	63
+Batman: The Animated Series	85	4	Animation	1992	1995	23	9	84982	147	28
+Making a Murderer	20	2	Documentary	2015	NA	60	8.6	84974	432	22
+When They See Us	4	1	Biography	2019	NA	74	8.9	84410	639	45
+Justified	78	6	Action	2010	2015	44	8.6	84320	253	59
+Fawlty Towers	12	2	Comedy	1975	1979	30	8.7	83364	175	25
+Naruto: Shipp?en	502	1	Animation	2007	2017	24	8.6	77219	183	24
+Last Week Tonight with John Oliver	205	7	Comedy	2014	NA	30	8.9	77172	105	12
+Cobra Kai	31	4	Action	2018	NA	30	8.7	74815	1384	46
+Adventure Time	289	10	Animation	2010	2018	11	8.6	74426	185	46
+The Marvelous Mrs. Maisel	27	4	Comedy	2017	NA	57	8.7	74291	590	54
+Pride and Prejudice	6	1	Drama	1995	NA	55	8.8	74208	431	18
+Louie	61	5	Comedy	2010	2015	22	8.5	73794	70	52
+Sacred Games	16	2	Action	2018	NA	50	8.7	70902	776	26
+The Shield	89	7	Crime	2002	2008	47	8.7	70646	417	65
+The Last Dance	10	1	Documentary	2020	NA	49	9.2	69530	419	25
+The Twilight Zone	156	5	Drama	1959	1964	51	9	69314	174	76
+Gravity Falls	40	2	Animation	2012	2016	23	8.9	69111	220	8
+Battlestar Galactica	2	1	Action	2003	NA	92	8.6	67749	450	36
+Dragon Ball Z: Doragon b?u zetto	291	1	Animation	1989	1996	24	8.7	66373	57	16
+Monty Python's Flying Circus	45	4	Comedy	1969	1974	30	8.8	66127	82	23
+One Piece	947	NA	Animation	1999	NA	24	8.7	63133	172	28
+The West Wing	155	7	Drama	1999	2006	44	8.8	61709	261	14
+The Grand Tour	40	5	Comedy	2016	NA	60	8.7	61650	335	5
+Fullmetal Alchemist	51	1	Animation	2003	2004	24	8.5	60498	101	18
+Bron/Broen	38	4	Crime	2011	2018	60	8.6	56471	154	52
+Friday Night Lights	76	5	Drama	2006	2011	44	8.6	55226	307	49
+Flight of the Conchords	22	2	Comedy	2007	2009	28	8.5	54352	41	34
+Twin Peaks	18	1	Crime	2017	NA	60	8.5	54286	425	132
+Black Books	18	3	Comedy	2000	2004	25	8.5	53362	85	7
+Chappelle's Show	33	3	Comedy	2003	2006	22	8.8	52361	94	14
+Dragon Ball	153	9	Animation	1995	2003	24	8.5	52112	41	4
+Peep Show	54	9	Comedy	2003	2015	25	8.6	51768	83	8
+TVF Pitchers	5	1	Comedy	2015	NA	40	9.1	50683	174	1
+Spaced	14	2	Action	1999	2001	25	8.6	49719	93	26
+Hunter x Hunter	148	1	Animation	2011	2014	24	8.9	49576	156	15
+Atlanta	39	4	Comedy	2016	NA	30	8.6	49496	97	27
+Shin Seiki Evangelion	26	1	Animation	1995	1996	24	8.5	47978	224	24
+Code Geass	54	2	Animation	2006	2012	24	8.6	47719	125	9
+Blackadder Goes Forth	6	1	Comedy	1989	NA	29	8.8	47618	75	10
+Generation Kill	7	1	Drama	2008	NA	70	8.5	47054	95	40
+Dragon Ball	153	1	Animation	1986	1989	24	8.5	46415	34	5
+Only Fools and Horses....	64	9	Comedy	1981	2003	97	8.9	45253	133	2
+Samurai Jack	62	5	Animation	2001	2017	25	8.5	44587	103	9
+The Knick	20	2	Drama	2014	2015	58	8.5	42912	74	41
+Coupling	28	4	Comedy	2000	2004	30	8.5	42402	140	17
+Blackadder II	6	1	Comedy	1986	NA	29	8.6	42401	51	9
+Steins;Gate	26	1	Animation	2011	2015	24	8.8	41503	153	10
+Dr. Horrible's Sing-Along Blog	3	1	Short	2008	NA	42	8.5	41375	73	32
+Blackadder the Third	6	1	Comedy	1987	NA	30	8.6	40390	49	9
+Justice League	52	2	Animation	2001	2004	22	8.5	40257	73	35
+Whose Line Is It Anyway?	220	8	Comedy	1998	2007	30	8.5	39565	119	10
+Samurai Champloo	26	1	Animation	2004	2005	24	8.5	39412	77	11
+The Jinx: The Life and Deaths of Robert Durst	6	1	Documentary	2015	NA	47	8.7	38222	43	10
+Over the Garden Wall	10	1	Animation	2014	NA	11	8.8	38163	117	11
+Succession	21	3	Drama	2018	NA	60	8.6	37590	468	29
+Life	11	1	Documentary	2009	NA	43	9.1	37399	11	10
+Poirot	70	13	Crime	1989	2013	100	8.6	37103	81	35
+Father Ted	25	3	Comedy	1995	1998	25	8.6	35881	106	10
+Cosmos	13	1	Documentary	1980	NA	60	9.3	35766	57	7
+The Blue Planet	10	1	Documentary	2001	NA	39	9	33849	22	7
+Anne with an E	27	3	Drama	2017	2019	60	8.7	33046	850	27
+Impractical Jokers	234	8	Comedy	2011	NA	30	8.6	32565	127	10
+What We Do in the Shadows	21	3	Comedy	2019	NA	30	8.5	31986	299	33
+Blue Planet II	8	1	Documentary	2017	2018	46	9.3	31482	41	9
+Line of Duty	35	6	Crime	2012	NA	60	8.7	31279	264	28
+Young Justice	72	3	Animation	2010	NA	23	8.6	30849	101	22
+The Bugs Bunny Show	78	3	Animation	1960	1975	30	8.6	30804	13	5
+Our Planet	8	1	Documentary	2019	NA	50	9.3	29612	196	12
+North & South	4	1	Drama	2004	NA	59	8.6	29313	112	8
+QI	285	18	Comedy	2003	NA	30	8.6	29206	24	NA
+Normal People	12	1	Drama	2020	NA	28	8.5	28106	485	27
+Gomorra: La serie	48	4	Crime	2014	NA	55	8.7	27900	162	24
+John Adams	7	1	Biography	2008	NA	71	8.5	27828	119	43
+Berserk	25	1	Animation	1997	1998	23	8.6	27622	92	15
+Persona	12	1	Crime	2018	NA	65	9.1	27526	113	21
+Skam	43	4	Drama	2015	2017	30	8.7	27029	51	5
+Behzat ?.: Bir Ankara Polisiyesi	105	4	Crime	2010	2019	90	8.7	26308	25	1
+Frozen Planet	10	1	Documentary	2011	2012	33.3	9	26155	15	19
+The Family Man	11	2	Action	2019	NA	45	8.6	25840	634	5
+Erased	13	1	Animation	2016	NA	30	8.5	25790	94	8
+Das Boot	3	1	Drama	1985	1987	97.66666667	8.8	25728	23	7
+Ezel	71	2	Crime	2009	2011	1.267605634	8.6	25577	64	NA
+Kota Factory	5	1	Comedy	2019	NA	45	9.1	23872	291	1
+Human Planet	8	1	Documentary	2011	NA	50	9	23257	11	8
+The Venture Bros.	86	7	Animation	2003	2018	22	8.5	23193	58	31
+Mystery Science Theater 3000	199	11	Comedy	1988	2015	92	8.5	22794	229	92
+SCAM 1992: The Harshad Mehta Story	10	1	Biography	2020	NA	NA	9.6	21662	1005	4
+The World at War	26	1	Documentary	1973	1974	52	9.2	21542	90	4
+Panchayat	8	1	Comedy	2020	NA	35	8.7	21360	855	62
+Dekalog	10	1	Drama	1989	1990	57.2	9	21342	NA	60
+Lonesome Dove	4	1	Adventure	1989	NA	96	8.7	20101	213	16
+The Thick of It	24	4	Comedy	2005	2012	29	8.7	19995	37	8
+The Adventures of Sherlock Holmes	13	2	Crime	1984	1985	60	8.7	19508	56	5
+The Vietnam War	10	1	Documentary	2017	NA	41	9.1	19326	152	11
+Monster	75	1	Animation	2004	2010	24	8.6	19271	85	9
+Yeh Meri Family	7	1	Comedy	2018	NA	30	9.2	18746	355	3
+Demon Slayer: Kimetsu No Yaiba	27	1	Animation	2019	NA	25	8.7	18287	165	6
+I'm Alan Partridge	12	2	Comedy	1997	2002	29	8.5	18238	58	4
+Nathan for You	32	4	Documentary	2013	2017	30	8.8	18008	55	1
+Endeavour	31	8	Crime	2012	NA	89	8.6	17808	123	15
+Pose	19	3	Drama	2018	NA	60	8.6	17615	166	18
+Formula 1: Drive to Survive	20	2	Documentary	2019	NA	40	8.6	17184	160	7
+Through the Wormhole	63	8	Documentary	2010	2017	60	8.6	16614	23	8
+Ted Lasso	11	2	Comedy	2020	NA	30	8.7	16433	400	21
+Feud: Bette and Joan	8	1	Biography	2017	NA	50.75	8.5	16325	86	24
+"I, Claudius"	13	1	Biography	1976	NA	51.46153846	8.7	15469	118	27
+Queer Eye	42	5	Reality-TV	2018	NA	45	8.5	15067	114	15
+Shigatsu wa kimi no uso	23	1	Animation	2014	2015	23	8.6	15040	121	7
+Horace and Pete	10	1	Comedy	2016	NA	67	8.5	14657	65	13
+Sarabhai V/S Sarabhai	79	2	Comedy	2004	2017	30	8.9	14514	46	1
+Alfred Hitchcock Presents	268	7	Comedy	1955	1962	25	8.5	14512	37	20
+The Promised Neverland	13	2	Animation	2019	NA	30	8.7	14372	111	7
+Pew News	50	2	Comedy	2018	2020	15	9	14224	789	NA
+The New Batman Adventures	24	2	Animation	1997	1999	30	8.5	13911	34	6
+Africa	7	1	Documentary	2013	NA	51.42857143	9	13757	10	6
+The Civil War	9	1	Documentary	1990	NA	75.55555556	9	13263	84	14
+Mob Psycho 100	25	2	Animation	2016	NA	24	8.5	13027	50	7
+Chef's Table	30	6	Documentary	2015	NA	50	8.6	12976	34	11
+Rurouni Kenshin: Trust and Betrayal	4	1	Animation	1999	NA	29.5	8.6	12920	51	15
+Ramayan	78	1	Adventure	1987	1988	30	9.1	12343	177	1
+The Eric Andre Show	53	5	Comedy	2012	NA	11	8.6	12317	53	2
+Letterkenny	54	8	Comedy	2016	NA	30	8.7	12316	149	2
+Yes Minister	22	3	Comedy	1980	1984	60	8.6	12290	38	3
+Mahabharat	94	1	Adventure	1988	1990	45	8.9	11885	108	5
+Long Way Round	10	1	Documentary	2004	2010	31.5	8.6	11790	52	6
+Content Cop	13	3	Documentary	2015	NA	20	9	11789	60	NA
+Homicide: Life on the Street	122	7	Crime	1993	1999	60	8.5	11374	94	25
+The Defiant Ones	4	1	Documentary	2017	NA	60	8.5	11185	26	6
+Delhi Crime	7	1	Crime	2019	NA	50	8.5	10815	184	7
+From the Earth to the Moon	12	1	Action	1998	NA	60	8.6	10792	67	5
+Detectorists	19	3	Comedy	2014	2017	30	8.6	10375	119	11
+The Return of Sherlock Holmes	11	2	Crime	1986	1988	60	8.7	10312	18	4
+Vinland Saga	24	1	Animation	2019	NA	24	8.8	10228	110	12
+Guardian: The Lonely and Great God	16	1	Comedy	2016	2017	60	8.6	10045	120	1
+Justice League Unlimited	39	3	Animation	2004	2006	23	8.7	9947	13	NA
+Apocalypse: La 2?e guerre mondiale	6	1	Documentary	2009	NA	52	9	9452	26	5
+Brass Eye	7	2	Comedy	1997	2001	25	8.6	9444	23	3
+"Yes, Prime Minister"	16	2	Comedy	1986	1987	30	8.6	9442	15	1
+The Bugs Bunny/Road Runner Hour	2	2	Animation	1968	1978	55	8.5	9206	5	5
+Crash Landing on You	19	1	Comedy	2019	2020	70	8.7	9164	306	3
+My Brilliant Friend	17	3	Drama	2018	NA	50	8.5	9046	106	21
+Senke nad Balkanom	20	2	Crime	2017	NA	60	9	8738	48	1
+Clannad: After Story	25	1	Animation	2008	2009	24	8.6	8502	43	4
+Umbre	21	3	Crime	2014	NA	45	8.8	8404	45	6
+El Chavo del Ocho	328	7	Comedy	1972	1983	30	8.6	8374	19	1
+The Untold History of the United States	12	1	Documentary	2012	2013	58	8.6	8154	104	12
+Haikyuu!!	87	4	Animation	2014	2020	24	8.7	7997	49	4
+Mind Your Language	42	4	Comedy	1977	1986	30	8.7	7446	53	2
+The Beatles Anthology	8	1	Documentary	1995	1996	75	9.1	7249	36	2
+MisteRogers Neighborhood	896	31	Family	1968	2001	30	8.6	7239	50	2
+Critical Role	255	15	Adventure	2015	NA	180	9.3	7123	88	NA
+The Bureau	50	5	Drama	2015	NA	52	8.7	7043	66	19
+The Memoirs of Sherlock Holmes	6	1	Crime	1994	NA	51	8.7	7005	12	1
+Arany?et	24	3	Action	2015	2018	60	8.8	6923	26	1
+Satyamev Jayate	26	3	Documentary	2012	NA	65	8.6	6676	19	NA
+One Strange Rock	11	2	Documentary	2018	NA	47	8.8	6332	96	32
+GTO	43	1	Animation	1999	2000	24	8.6	6072	13	6
+Vratice se rode	25	1	Comedy	2007	2008	55	8.9	6029	15	1
+It's Okay to Not Be Okay	16	1	Comedy	2020	NA	70	8.9	5828	365	5
+The Great British Baking Show	137	11	Reality-TV	2010	NA	60	8.6	5826	60	14
+Hilda	17	2	Animation	2018	2020	24	8.6	5704	99	10
+Still Game	63	9	Comedy	2002	2019	30	8.9	5577	59	NA
+How the Universe Works	77	8	Documentary	2010	NA	60	8.9	5575	34	1
+Ikinci Bahar	37	3	Comedy	1998	2001	48	8.6	5388	6	NA
+Bose: Dead/Alive	9	1	Biography	2017	NA	20	8.9	5339	74	7
+The Adventures of Sherlock Holmes and Dr. Watson: The Hound of the Baskervilles	2	1	Adventure	1981	NA	77	8.7	5289	16	6
+Hunter x Hunter	62	3	Animation	1999	2001	23	8.6	5243	18	2
+The Universe	90	8	Documentary	2007	NA	NA	8.8	5010	23	24
